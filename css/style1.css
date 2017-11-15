@@ -1,0 +1,310 @@
+ body #container1, #page1
+{
+  background-color:#8FBC8F;
+  background-image:url("../img/c27.jpg");
+  background-size:cover;
+  background-repeat: no-repeat; 
+}
+
+.text-color-1
+{
+  min-width:300px;
+  background-color: rgba(46, 139,87,0.9);
+  border-radius:20%;
+  padding:2%;
+  font-size:1.250em;
+  color:#FFFF00;
+  text-shadow: 1px 1px #000000;
+  margin-top:20%;
+  margin-left:15%;
+  width:50%;
+  box-shadow:3px 5px #FFFF00;
+}
+
+ #page2, .container2
+{
+  background-color:#000000;
+}
+
+#pic-3
+{
+  height:50%;
+  width:50%;
+  margin-top:5%;
+  margin-left:5%;
+  border-radius:4%;
+}
+
+img
+{
+  height:50%;
+  width:50%;
+  margin-top:5%;
+  margin-left:5%;
+  box-shadow:1.5px 1.5px rgba(24, 23, 22, 0.57);
+  border-radius:2%; 
+}
+
+#page3 
+{
+  background-color:#8FBC8F;
+  background-image:url("../img/bg40.jpg"); 
+  background-size:cover;
+  background-repeat: no-repeat; 
+}
+
+ #page4, .container4 
+{
+  background-color: #000000;
+}
+
+#page5
+{
+  background-color:#8FBC8F;
+  background-image:url("../img/cont1.jpg"); 
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.text-color-1
+{
+  color:#FFFF00;
+  font-size:20px;
+  padding:5%;
+  margin-top:16%;
+  text-shadow: 0.5px 0.5px #000000;
+}
+
+.navbar
+{
+  width:55%;
+  box-shadow:3px 5px rgba(46, 139, 87, 0.7);
+  border-radius:35%;
+  margin:auto;
+}
+
+.top
+{
+ background-color:#E9967A;
+ height:15%;
+ width:100%;
+}
+
+#text 
+{
+  width:30%;
+  float:left;
+  background-color:rgba(46, 139, 87, 0.9);
+  border-radius:7%;
+  margin-left:9%;
+  margin-top:10%;
+  padding:2%;
+  box-shadow:3px 5px rgba(24, 23, 22, 0.57);
+}
+
+.text-color-2
+{
+   color:	#FFFF00;
+   font-size:22px;
+   text-shadow:1px 1px #000000;
+}
+
+#btn 
+{
+   color:#FFFF00;
+   width:15%;
+   height:5%;
+   background-color:rgba(46, 139, 87, 0.9);
+   border-radius:20%;
+   padding:1%;  
+   font-size:20px;
+   box-shadow:3px 5px rgba(24, 23, 22, 0.57);
+   text-shadow: 1px 1px #000000;  
+}
+
+.btnbtn
+{
+   color:#FFFF00;
+   width:15%;
+   height:5%;
+   float:right;
+   background-color:rgba(46, 139, 87, 0.9);
+   border-radius:20%;
+   padding:1%;  
+   font-size:20px;
+   margin-right:5%;
+   margin-top:30%;
+   box-shadow:3px 5px rgba(24, 23, 22, 0.57);
+   text-shadow: 1px 1px #000000;
+}
+
+
+
+.btn5
+{
+   box-shadow:3px 5px rgba(24, 23, 22, 0.57);
+   text-shadow: 2px 2px #000000; 
+   color:#FFFF00;
+   border-radius:14%;
+   margin-top:4%; 
+}
+
+a
+{
+  color:#FFFF00;
+  font-size:22px;
+  text-shadow:1px 1px #BDB76B; 
+  padding:5%;
+  margin-right: 3%;
+}
+
+h1, h2
+{
+  text-shadow:1px 1.2px	#FFFF00; 
+  color:#808080;
+}
+
+
+#pic5-1
+{
+  height:50%;
+  width:30%;
+  float:right;
+  margin-right:5%;
+  margin-top:5%;
+}
+
+#pg1
+{
+  box-shadow:4px 4px #2F4F4F; 
+  border-radius:25%;
+}
+
+#h1, #h12
+{
+  margin-left:30%;
+  margin-top:1%;
+  margin-bottom:2%;
+  width:50%;
+  color:#008080;
+ 
+}
+
+#h2, #h22
+{
+  margin-left:15%; 
+  width:40%;
+}
+
+#h4, #h42
+{
+  margin-left:20%;
+  width:45%;
+}
+
+#h5, #h52
+{
+  margin-left:27%;
+  width:47%;
+}
+
+#h6, #h62
+{
+  margin-left:32%;
+  width:50%;
+}
+
+#h7, #h72
+{
+  margin-left:37%;
+  width:55%;
+}
+
+#h12,#h22, #h42, #h52, #h62, #h72
+{
+  color:#00FFFF;  
+}
+
+#pic5-2
+{
+  float:left;
+  margin-left:10%;
+}
+
+.carousel-item
+{
+  height:75%;
+  width:75%;
+  margin-left:28%;
+}
+
+ #needs-validation
+{
+  margin-top: 18%;
+}
+
+.container
+{
+  font-size:32px;
+  color: blue;
+  text-shadow:0.5px 0.5px #FFFF00;
+}
+
+#button
+{
+ /* margin-top:0;*/ 
+  margin-left:10%;
+}
+
+button
+{
+  box-shadow:2px 2px rgba(24, 23, 22, 0.57);
+  background-color: rgba(46, 139, 87, 0.9);
+  border-radius:30%; 
+  color:#FFFF00;
+  text-shadow: 1px 2px #000000;
+}
+
+#yellow
+{
+  color:#B0E0E6;
+  text-shadow: 1px 1px #6B8E23; 
+}
+
+ 
+#form
+{
+ height:100%;
+ width:70%;
+ background-color:rgba(23, 166, 27, 0.26);
+ margin-left:15%;
+ margin-top:20%;
+}
+
+.social-media
+{
+float:right;
+margin-right:3%;
+}
+
+ .modal-body 
+{
+    text-align: center;
+}
+
+.btn
+{
+  min-width:300px;
+  background-color: rgba(46, 139,87,0.7);
+  border-radius:20%;
+  padding:2%;
+  font-size:1.250em;
+  color:#FFFF00;
+  margin-top:30%;
+  margin-left:20%;
+  width:15%; 
+}
+
+
+
+
